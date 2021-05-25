@@ -1,6 +1,6 @@
 # Day 2: OpenCV Tutorial
 **In this section we'll learn how to apply face detection with OpenCV to single input images, videos, and webcams.**
-* **Link:** <https://github.com/SourabhR23/PyImageSearch-CrashCourse/tree/master/02_OpenCV_Tutorial>
+* **Link:** <https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/>
 
 ## Tutorial 1:
 In this we are going to learn, <br> 
