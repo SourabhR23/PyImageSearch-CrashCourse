@@ -1,5 +1,5 @@
 # Day 1: Face detection with OpenCV and Deep Learning
-
+**In this section we'll learn how to apply face detection with OpenCV to single input images, videos, and webcams.**
 * **Link:** <https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/>
 
 ## Preview:
