@@ -50,3 +50,16 @@ Along the way we'll be:
 - Conducting erosion and dilation
 - Masking an image
 
+
+## Day 3: Document Scanner
+
+* **Link:** <https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/>
+* **Folder:** [03_Document_Scanner](https://github.com/SourabhR23/PyImageSearch-CrashCourse/tree/master/03_Document_Scanner)
+
+**Building a document scanner with OpenCV can be accomplished in just three simple steps:**
+
+> **Step 1 :** Detect edges.
+
+> **Step 2 :**  Use the edges in the image to find the contour(outline) representing the piece of paper being scanned.
+
+> **Step 3 :** Apply a perspective transform to obtain the top-down view of the document.
